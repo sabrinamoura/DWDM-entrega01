@@ -1,3 +1,6 @@
 # DWDM-entrega01
 
-Imagens utilizadas a partir do site unsplash
+Exercício de HTML/CSS: Site de Adocão de Animais
+
+Imagens retiradas da WEB.
+Fontes: Unsplash, 
